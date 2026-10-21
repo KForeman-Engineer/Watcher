@@ -14,13 +14,13 @@ docs/
 	api-design.md --> this file
 	README.md --> entrypoint documentation
 src/
-	config/
-	features/
-		satellite/ --> feature name
-				satelliteroute.rs
-				satellitecontroller.rs
-		user/
-	shared/
+ config/
+ features/
+  satellite/ --> feature name
+     satelliteroute.rs
+     satellitecontroller.rs
+   user/
+   shared/
 ```
 
 ### Why?
