@@ -11,8 +11,8 @@ Watcher is built using a feature-based folder structure meaning that each resour
 ```
 Watcher/
 docs/
-	api-design.md --> this file
-	README.md --> entrypoint documentation
+ api-design.md --> this file
+ README.md --> entrypoint documentation
 src/
  config/
  features/
